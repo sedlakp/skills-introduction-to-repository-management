@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sedlakp
+/src/backend/database.py      @sedlakp
+/src/backend/routers/auth.py  @sedlakp
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sedlakp
